@@ -9,7 +9,6 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucas" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110695295?s=400&u=7d26c04adceb4cf0373ff8165df567c529d7f81a&v=4">
 </div>
   
   ##
