@@ -16,5 +16,5 @@
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/lucas-reis-b2a054243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-![snake gif](https://github.com/lucasreis64/lucasreis64/blob/output/github-contribution-grid-snake.gif)
+<img alt= "cobrinha" src="https://github.com/lucasreis64/lucasreis64/blob/output/github-contribution-grid-snake.gif">
 </div>
