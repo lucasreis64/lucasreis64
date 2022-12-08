@@ -165,8 +165,6 @@ I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
 
 <br>
 
-## 📊Estatísticas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
 
 <div>
