@@ -31,7 +31,7 @@ Back-end:
 
 <br><br>
 
-## Only Full-Stack Projects
+## Full-Stack only Projects
 <table height= "300">
    <thead>
       <tr>
@@ -76,7 +76,7 @@ Back-end:
 
 <br>
 
-## Only Front-end Projects
+## Front-end only Projects
 <table height= "450">
    <thead>
       <tr>
@@ -141,7 +141,7 @@ Back-end:
 
 <br>
 
-## Only Back-end Projects
+## Back-end only Projects
 <table height= "200">
    <thead>
       <tr>
