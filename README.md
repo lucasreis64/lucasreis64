@@ -1,9 +1,10 @@
 ![](https://img.shields.io/github/followers/lucasreis64?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/lucasreis64?logo=github&style=for-the-badge)
 
 ## **Hello! Welcome to my GitHub!**
+
 <br>
 
-<table height="300px">
+<table>
   <tbody>
     <tr>
       <td align="left" width="60%">
@@ -142,11 +143,15 @@
 <table height= "200">
    <tbody>
       <tr>
-         <th>Node.js & MongoDB</th>
+         <th align="center" width="50%">Node.js & MongoDB</th>
+         <th align="center" width="50%">Node.js & PostgreSQL</th>
       </tr>
       <tr>
          <td>
            <a href="https://github.com/lucasreis64/batepapo-uol-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapo-uol-api&theme=github_dark"></a>
+         </td>
+         <td>
+           <a href="https://github.com/lucasreis64/boardcamp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=boardcamp&theme=github_dark"></a>
          </td>
       </tr>
    </tbody>
