@@ -1,29 +1,42 @@
 ![](https://img.shields.io/github/followers/lucasreis64?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/lucasreis64?logo=github&style=for-the-badge)
 
-## Hello! Welcome to my GitHub!
+## **Hello! Welcome to my GitHub!**
+<br>
 
-<p>
-I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile.
-  
-I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
+<div style="display: flex;">
+<div>
+<p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile.
 </p>
+<p style="text-indent: 20px;">I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
+</div>
+<img width="40%" align="right" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
 
-<img width="350" align="right" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
+</div>
 
-## Front-end:
+<div style="display: flex; margin-top: 30px; margin-bottom: 30px;">
 
-- **React JS (styled-components)**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **TypeScript**
+<div style="margin-right: 100px;">
 
-## Back-end:
+   ## **Front-end:**
 
-- **Node.js**
-- **MongoDB**
-- **PostgreSQL**
-- **TypeScript**
+   -   **React JS (styled-components)**
+   -   **JavaScript**
+   -   **HTML5**
+   -   **CSS3**
+   -   **TypeScript**
+</div>
+
+<div>
+
+   ## **Back-end:**
+
+   -   **Node.js**
+   -   **MongoDB**
+   -   **PostgreSQL**
+   -   **TypeScript**
+
+</div>
+</div>
 
 <a href="mailto: lucasreis64@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
@@ -34,8 +47,10 @@ I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
 
 <br><br>
 
-## Full-Stack only Projects
 
+- ## **Full-Stack only Projects**
+
+<div style="display: flex; margin-top: 30px; margin-bottom: 30px;">
 <table height= "300">
    <thead>
       <tr>
@@ -56,8 +71,6 @@ I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
    </tbody>
 </table>
 
-<br>
-
 <table height= "300">
    <thead>
       <tr>
@@ -77,11 +90,13 @@ I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
       </tr>
    </tbody>
 </table>
-
+</div>
 <br>
 
-## Front-end only Projects
 
+- ## **Front-end only Projects**
+
+<div style="display: flex; margin-top: 30px; margin-bottom: 30px;">
 <table height= "450">
    <thead>
       <tr>
@@ -143,10 +158,10 @@ I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
       </tr>
    </tbody>
 </table>
-
+</div>
 <br>
 
-## Back-end only Projects
+- ## **Back-end only Projects**
 
 <table height= "200">
    <thead>
@@ -165,8 +180,12 @@ I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.
 
 <br>
 
+- ## **Technologies**
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
 
+<br>
 <div>
    <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
  <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
