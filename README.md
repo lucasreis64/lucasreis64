@@ -140,7 +140,7 @@
 
 - ## **Back-end only Projects**
 
-<table height= "200">
+<table>
    <tbody>
       <tr>
          <th align="center" width="50%">Node.js & MongoDB</th>
