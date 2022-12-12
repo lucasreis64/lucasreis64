@@ -21,12 +21,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="left" width="50%">
+      <td align="left" width="60%">
          <div>
 
    ## **Front-end:**
 
-   -   **React JS (styled-components)**
+   -   **React JS**
    -   **JavaScript**
    -   **HTML5**
    -   **CSS3**
@@ -34,7 +34,7 @@
 
 </div>
       </td>
-      <td width="30%">
+      <td align="center" width="40%">
          
 <div>
 
@@ -63,11 +63,11 @@
 
 - ## **Full-Stack only Projects**
 
-<table height="300px">
+<table height="310px">
   <tbody>
     <tr>
-      <th align="left" width="50%"> React, MongoDB && Node.js SoloWork </th>
-      <th align="right"width="50%"> React, MongoDB && Node.js TeamWork</th>
+      <th align="center" width="50%"> React, MongoDB && Node.js SoloWork </th>
+      <th align="center"width="50%"> React, MongoDB && Node.js TeamWork</th>
     </tr>
     <tr>
       <td>
@@ -93,11 +93,11 @@
 
 - ## **Front-end only Projects**
 
-<table height="300px">
+<table height="310px">
   <tbody>
     <tr>
-      <th align="left" width="50%"> React </th>
-      <th align="right"width="50%">Javascript Vanilla</th>
+      <th align="center" width="50%"> React </th>
+      <th align="center" width="50%">Javascript Vanilla</th>
     </tr>
     <tr>
          <td>
