@@ -3,19 +3,26 @@
 ## **Hello! Welcome to my GitHub!**
 <br>
 
-<div style="display: flex;">
-<div>
-<p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile.
-</p>
-<p style="text-indent: 20px;">I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
-</div>
-<img width="40%" align="right" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
+<table height="300px">
+  <tbody>
+    <tr>
+      <td align="left" width="60%">
+         <p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile. I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
+      </td>
+      <td align="right" width="40%">
+         <img width="100%" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
+      </td>
+   </tr>
+  </tbody>
+</table>
 
-</div>
+<br>
 
-<div style="display: flex; margin-top: 30px; margin-bottom: 30px;">
-
-<div style="margin-right: 100px;">
+<table>
+  <tbody>
+    <tr>
+      <td align="left" width="50%">
+         <div>
 
    ## **Front-end:**
 
@@ -24,8 +31,11 @@
    -   **HTML5**
    -   **CSS3**
    -   **TypeScript**
-</div>
 
+</div>
+      </td>
+      <td width="30%">
+         
 <div>
 
    ## **Back-end:**
@@ -34,9 +44,12 @@
    -   **MongoDB**
    -   **PostgreSQL**
    -   **TypeScript**
-
+   -   
 </div>
-</div>
+   </tr>
+  </tbody>
+</table>
+<div>
 
 <a href="mailto: lucasreis64@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
@@ -50,126 +63,87 @@
 
 - ## **Full-Stack only Projects**
 
-<div style="display: flex; margin-top: 30px; margin-bottom: 30px;">
-<table height= "300">
-   <thead>
-      <tr>
-         <th>React, MongoDB && Node.js SoloWork</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/mywallet~front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-front&theme=github_dark"></a>
-         </td>
-      </tr>
-        <tr>
-         <td>
+<table height="300px">
+  <tbody>
+    <tr>
+      <th align="left" width="50%"> React, MongoDB && Node.js SoloWork </th>
+      <th align="right"width="50%"> React, MongoDB && Node.js TeamWork</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/lucasreis64/mywallet~front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-front&theme=github_dark"></a>
+      </td>
+      <td>
+         <a href="https://github.com/lucasreis64/e-commerce-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-front&theme=github_dark"></a>
+      </td>
+   </tr>
+   <tr>
+      <td>
            <a href="https://github.com/lucasreis64/mywallet-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-back&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
+      </td>
+      <td>
+         <a href="https://github.com/lucasreis64/e-commerce-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-back&theme=github_dark"></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<table height= "300">
-   <thead>
-      <tr>
-         <th>React, MongoDB && Node.js TeamWork</th>
-      </tr>
-   </thead>
-   <tbody>
-        <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/e-commerce-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-front&theme=github_dark"></a>
-         </td>
-      </tr>
-        <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/e-commerce-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-back&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-</div>
 <br>
 
 
 - ## **Front-end only Projects**
 
-<div style="display: flex; margin-top: 30px; margin-bottom: 30px;">
-<table height= "450">
-   <thead>
-      <tr>
-         <th>React</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
+<table height="300px">
+  <tbody>
+    <tr>
+      <th align="left" width="50%"> React </th>
+      <th align="right"width="50%">Javascript Vanilla</th>
+    </tr>
+    <tr>
          <td>
            <a href="https://github.com/lucasreis64/trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=trackit&theme=github_dark"></a>
          </td>
-      </tr>
-        <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/zaprecall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=zaprecall&theme=github_dark"></a>
-         </td>
-      </tr>
-        <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/cineflex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=cineflex&theme=github_dark"></a>
-         </td>
-      </tr>
-             <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/instagramreact"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=instagramreact&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
-</table>
-
-<br>
-
-<table height= "450">
-   <thead>
-      <tr>
-         <th>JavaScript Vanilla</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
          <td>
            <a href="https://github.com/lucasreis64/parrotscardgame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=parrotscardgame&theme=github_dark"></a>
          </td>
-      </tr>
-        <tr>
+   </tr>
+   <tr>
          <td>
-           <a href="https://github.com/lucasreis64/driveneats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=driveneats&theme=github_dark"></a>
+           <a href="https://github.com/lucasreis64/zaprecall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=zaprecall&theme=github_dark"></a>
          </td>
-      </tr>
-        <tr>
+         <td>
+            <a href="https://github.com/lucasreis64/driveneats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=driveneats&theme=github_dark"></a>
+         </td>
+    </tr>
+    <tr>
+         <td>
+           <a href="https://github.com/lucasreis64/cineflex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=cineflex&theme=github_dark"></a>
+         </td>
          <td>
            <a href="https://github.com/lucasreis64/batepapouol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapouol&theme=github_dark"></a>
          </td>
-      </tr>
-             <tr>
+    </tr>
+    <tr>
+         <td>
+           <a href="https://github.com/lucasreis64/instagramreact"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=instagramreact&theme=github_dark"></a>
+         </td>
          <td>
            <a href="https://github.com/lucasreis64/BuzzQuizz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=BuzzQuizz&theme=github_dark"></a>
          </td>
-      </tr>
-   </tbody>
+    </tr>
+
+  </tbody>
 </table>
-</div>
+
 <br>
 
 - ## **Back-end only Projects**
 
 <table height= "200">
-   <thead>
+   <tbody>
       <tr>
          <th>Node.js & MongoDB</th>
       </tr>
-   </thead>
-   <tbody>
       <tr>
          <td>
            <a href="https://github.com/lucasreis64/batepapo-uol-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapo-uol-api&theme=github_dark"></a>
