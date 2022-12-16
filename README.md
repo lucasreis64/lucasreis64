@@ -9,10 +9,6 @@
     <tr>
       <td align="left" width="60%">
          <p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile. I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
-      </td>
-      <td align="right" width="40%">
-         <img width="100%" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
-      </td>
    </tr>
   </tbody>
 </table>
@@ -22,7 +18,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="left" width="60%">
+      <td align="left" width="20%">
          <div>
 
    ## **Front-end:**
@@ -35,7 +31,7 @@
 
 </div>
       </td>
-      <td align="center" width="40%">
+      <td align="center" width="20%">
          
 <div>
 
@@ -47,7 +43,12 @@
    -   **TypeScript**
    -   
 </div>
+              </td>
+      <td align="right" width="60%">
+         <img width="100%" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
+      </td>
    </tr>
+    
   </tbody>
 </table>
 <div>
