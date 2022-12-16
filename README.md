@@ -18,7 +18,7 @@
 <table align='center'>
   <tbody>
     <tr>
-      <td align="left" width="20%">
+      <td align="center" width="60%">
          <div>
 
    ## **Front-end:**
@@ -31,7 +31,7 @@
 
 </div>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="40%">
          
 <div>
 
