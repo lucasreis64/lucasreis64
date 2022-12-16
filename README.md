@@ -15,7 +15,7 @@
 
 <br>
 
-<table>
+<table align='center'>
   <tbody>
     <tr>
       <td align="left" width="20%">
@@ -44,8 +44,16 @@
    -   
 </div>
               </td>
-      <td align="right" width="60%">
-         <img width="100%" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
+   </tr>
+    
+  </tbody>
+</table>
+<div>
+  <table align="center">
+  <tbody>
+    <tr>
+      <td>
+         <img width="300px" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
       </td>
    </tr>
     
