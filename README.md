@@ -1,4 +1,3 @@
-![](https://img.shields.io/github/followers/lucasreis64?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/lucasreis64?logo=github&style=for-the-badge)
 # **About me**
 
 <table>
