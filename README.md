@@ -68,7 +68,7 @@
 <br>
 
 
-## ***Some of my Front-end Procts***
+## ***Some of my Front-end Projects***
 
 <table height="310px">
   <tbody>
