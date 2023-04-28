@@ -1,16 +1,11 @@
 ![](https://img.shields.io/github/followers/lucasreis64?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/lucasreis64?logo=github&style=for-the-badge)
-
-# **Hello! Welcome to my GitHub!**
-
-<br>
-
 # **About me**
 
 <table>
   <tbody>
     <tr>
       <td align="left" width="60%">
-         <p>- My name is Lucas Reis, I'm 22. I love sports, animes, tech, spicey foods and super cold drinks.
+         <p>- My name is Lucas Reis, I'm 22. I love sports, animes, tech, spicy food and super cold drinks.
         <br>- I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
    </tr>
   </tbody>
