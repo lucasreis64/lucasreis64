@@ -1,65 +1,24 @@
 ![](https://img.shields.io/github/followers/lucasreis64?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/lucasreis64?logo=github&style=for-the-badge)
 
-## **Hello! Welcome to my GitHub!**
+# **Hello! Welcome to my GitHub!**
 
 <br>
+
+# **About me**
 
 <table>
   <tbody>
     <tr>
       <td align="left" width="60%">
-         <p style="text-indent: 20px;">I've always been a self-taught person, that's one of the most valuable things about me. Every time that I have a problem, I do my best to solve it and often succeed. However, when I can't find the solution by myself, I prepare a concise question to a co-worker, senior or tutor, in order to not waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop some project almost everyday, that's very clear on my github profile. I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
+         <p>- My name is Lucas Reis, I'm 22. I love sports, animes, tech, spicey foods and super cold drinks.
+        <br>- I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
    </tr>
   </tbody>
 </table>
 
 <br>
 
-<table align='center'>
-  <tbody>
-    <tr>
-      <td align="center" width="60%">
-         <div>
-
-   ## **Front-end:**
-
-   -   **React JS**
-   -   **JavaScript**
-   -   **HTML5**
-   -   **CSS3**
-   -   **TypeScript**
-
-</div>
-      </td>
-      <td align="center" width="40%">
-         
-<div>
-
-   ## **Back-end:**
-
-   -   **Node.js**
-   -   **MongoDB**
-   -   **PostgreSQL**
-   -   **TypeScript**
-   -   
-</div>
-              </td>
-   </tr>
-    
-  </tbody>
-</table>
-<div>
-  <table align="center">
-  <tbody>
-    <tr>
-      <td>
-         <img width="300px" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif"/>
-      </td>
-   </tr>
-    
-  </tbody>
-</table>
-<div>
+# **Contact Info**
 
 <a href="mailto: lucasreis64@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
@@ -70,38 +29,52 @@
 
 <br><br>
 
+# **Projects**
+<br>
 
-- ## **Full-Stack only Projects**
+## ***Best Project: FamilyPeace***
 
-<table height="310px">
+<table>
+   <tbody>
+      <tr>
+         <th align="center" width="50%">Front-end - Vite React.js  and Typescript</th>
+         <th align="center" width="50%">Back-end - TypeScript Express & PostgreSQL</th>
+      </tr>
+      <tr>
+         <td>
+           <a href="https://github.com/lucasreis64/familypeace-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=familypeace-front&theme=github_dark"></a>
+         </td>
+         <td>
+           <a href="https://github.com/lucasreis64/familypeace-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=familypeace-backend&theme=github_dark"></a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+
+## ***Best Team Project: Drivent***
+
+<table >
   <tbody>
     <tr>
-      <th align="center" width="50%"> React, MongoDB && Node.js SoloWork </th>
-      <th align="center"width="50%"> React, MongoDB && Node.js TeamWork</th>
+      <th align="center" width="50%"> Back-end - TypeScript Express & PostgreSQL and Redis </th>
+      <th align="center"width="50%"> Front-end - React.js</th>
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/lucasreis64/mywallet~front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-front&theme=github_dark"></a>
+         <a href="https://github.com/lucasreis64/drivent-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=drivent-backend&theme=github_dark"></a>
       </td>
       <td>
          <a href="https://github.com/lucasreis64/e-commerce-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-front&theme=github_dark"></a>
       </td>
    </tr>
-   <tr>
-      <td>
-           <a href="https://github.com/lucasreis64/mywallet-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=mywallet-back&theme=github_dark"></a>
-      </td>
-      <td>
-         <a href="https://github.com/lucasreis64/e-commerce-back"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-back&theme=github_dark"></a>
-      </td>
-    </tr>
   </tbody>
 </table>
 
 <br>
 
 
-- ## **Front-end only Projects**
+## ***Some of my Front-end Procts***
 
 <table height="310px">
   <tbody>
@@ -133,42 +106,49 @@
            <a href="https://github.com/lucasreis64/batepapouol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapouol&theme=github_dark"></a>
          </td>
     </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/instagramreact"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=instagramreact&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/BuzzQuizz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=BuzzQuizz&theme=github_dark"></a>
-         </td>
-    </tr>
-
   </tbody>
 </table>
 
 <br>
 
-- ## **Back-end only Projects**
-
+# **Skills**
 <table>
-   <tbody>
-      <tr>
-         <th align="center" width="50%">Node.js & MongoDB</th>
-         <th align="center" width="50%">Node.js & PostgreSQL</th>
-      </tr>
-      <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/batepapo-uol-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=batepapo-uol-api&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/boardcamp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=boardcamp&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
+  <tbody>
+    <tr>
+      <td align="left" width="60%">
+         <div>
+
+   ### **Front-end:**
+
+   -   **React JS**
+   -   **JavaScript**
+   -   **HTML5**
+   -   **CSS3**
+   -   **TypeScript**
+
+</div>
+      </td>
+      <td align="left" width="40%">
+         
+<div>
+
+   ### **Back-end:**
+
+   -   **MongoDB**
+   -   **SQL**
+   -   **Redis**
+   -   **TypeScript**   
+   -   **Jest & Supertest**
+</div>
+              </td>
+   </tr>
+    
+  </tbody>
 </table>
 
 <br>
 
-- ## **Technologies**
+# **Technologies**
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
