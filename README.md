@@ -59,7 +59,7 @@
          <a href="https://github.com/lucasreis64/drivent-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=drivent-backend&theme=github_dark"></a>
       </td>
       <td>
-         <a href="https://github.com/lucasreis64/e-commerce-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=e-commerce-front&theme=github_dark"></a>
+         <a href="https://github.com/lucasreis64/drivent-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasreis64&repo=drivent-frontend&theme=github_dark"></a>
       </td>
    </tr>
   </tbody>
