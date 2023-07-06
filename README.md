@@ -124,6 +124,7 @@
    -   **HTML5**
    -   **CSS3**
    -   **TypeScript**
+   -   **Nextjs**
 
 </div>
       </td>
@@ -138,6 +139,7 @@
    -   **Redis**
    -   **TypeScript**   
    -   **Jest & Supertest**
+   -   **Nestjs**
 </div>
               </td>
    </tr>
