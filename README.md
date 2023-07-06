@@ -4,8 +4,13 @@
   <tbody>
     <tr>
       <td align="left" width="60%">
-         <p>- My name is Lucas Reis, I'm 22. I love sports, animes, tech, spicy food and super cold drinks.
-        <br>- I live in Rio de Janeiro, Brazil, but I'm open to opportunities abroad.</p>
+        <p>
+          - Currently working on Lab Of Codes.
+          <br>
+          - My name is Lucas Reis, and I'm 22 years old. I have a passion for sports, animes, technology, spicy food, and refreshing cold drinks.
+          <br>
+          - I reside in the beautiful city of Rio de Janeiro, Brazil, but I'm always open to exciting opportunities worldwide.
+        </p>
    </tr>
   </tbody>
 </table>
