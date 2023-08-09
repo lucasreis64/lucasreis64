@@ -5,7 +5,7 @@
     <tr>
       <td align="left" width="60%">
         <p>
-          - Currently working on Lab Of Codes.
+          - Currently working on Lab Of Codes devoloping in Next.js and Nest.js.
           <br>
           - My name is Lucas Reis, and I'm 22 years old. I have a passion for sports, animes, technology, spicy food, and refreshing cold drinks.
           <br>
