@@ -91,18 +91,18 @@
    </tr>
    <tr>
          <td>
-           <a href="https://github.com/lucasreis64/zaprecall"><img src="https://github-readme-stats.vercel-sigma-five.app/api/pin/?username=lucasreis64&repo=zaprecall&theme=github_dark"></a>
+           <a href="https://github.com/lucasreis64/zaprecall"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=zaprecall&theme=github_dark"></a>
          </td>
          <td>
-            <a href="https://github.com/lucasreis64/driveneats"><img src="https://github-readme-stats.vercel-sigma-five.app/api/pin/?username=lucasreis64&repo=driveneats&theme=github_dark"></a>
+            <a href="https://github.com/lucasreis64/driveneats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=driveneats&theme=github_dark"></a>
          </td>
     </tr>
     <tr>
          <td>
-           <a href="https://github.com/lucasreis64/cineflex"><img src="https://github-readme-stats.vercel-sigma-five.app/api/pin/?username=lucasreis64&repo=cineflex&theme=github_dark"></a>
+           <a href="https://github.com/lucasreis64/cineflex"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=cineflex&theme=github_dark"></a>
          </td>
          <td>
-           <a href="https://github.com/lucasreis64/batepapouol"><img src="https://github-readme-stats.vercel-sigma-five.app/api/pin/?username=lucasreis64&repo=batepapouol&theme=github_dark"></a>
+           <a href="https://github.com/lucasreis64/batepapouol"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=batepapouol&theme=github_dark"></a>
          </td>
     </tr>
   </tbody>
