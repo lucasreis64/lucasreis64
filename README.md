@@ -152,7 +152,7 @@
 # **Technologies**
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
 
 <br>
 <div>
