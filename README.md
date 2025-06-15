@@ -6,10 +6,6 @@
       <td align="left" width="60%">
         <p>
           - I am current developing in Next.js and Nest.js at Lab Of Codes.
-          <br>
-          - My name is Lucas Reis, and I'm 22 years old. I have a passion for sports, animes, technology, spicy food, and refreshing cold drinks.
-          <br>
-          - I reside in the beautiful city of Rio de Janeiro, Brazil, but I'm always open to exciting opportunities worldwide.
         </p>
    </tr>
   </tbody>
