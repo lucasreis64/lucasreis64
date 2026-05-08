@@ -1,172 +1,58 @@
-# **About me**
+# Lucas Reis
 
-<table>
-  <tbody>
-    <tr>
-      <td align="left" width="60%">
-        <p>
-          - I am current developing in Next.js and Nest.js at Lab Of Codes.
-        </p>
-   </tr>
-  </tbody>
-</table>
+Full-Stack Developer focused on building SaaS and digital platforms with TypeScript, NestJS, Next.js, PostgreSQL, Docker and cloud deployments.
 
-<br>
+Currently working on real-world products involving event management, coworking operations, communities, social networking, job platforms, resumes, projects, payments, dashboards, mobile apps, authentication, complex business rules and production deployments.
 
-# **Contact Info**
+## Main Stack
 
-<a href="mailto: lucasreis64@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- <a href="https://www.linkedin.com/in/lucas-reis-b2a054243/" target="_blank">
-  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+- Frontend: Next.js, React, TypeScript, Styled Components, Sass
+- Backend: NestJS, Node.js, TypeORM, PostgreSQL
+- Mobile: React Native, Expo
+- DevOps: Docker, AWS EC2, Vercel, Linux
+- Testing: Jest, Supertest
+- Docs: Swagger / OpenAPI
 
-<br><br>
+## Featured Projects
 
-# **Projects**
-<br>
+### MyJumpClub — Co-founder & Full-Stack Developer
 
-## ***Best Project: FamilyPeace***
+Event and club management platform for sports clubs, with web and mobile apps available for iOS, Android and Web.
 
-<table>
-   <tbody>
-      <tr>
-         <th align="center" width="50%">Front-end - Vite React.js  and Typescript</th>
-         <th align="center" width="50%">Back-end - TypeScript Express & PostgreSQL</th>
-      </tr>
-      <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/familypeace-front"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=familypeace-front&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/familypeace-backend"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=familypeace-backend&theme=github_dark"></a>
-         </td>
-      </tr>
-   </tbody>
-</table>
+As co-founder and full-stack developer, I lead the technical development of the product, working across backend, frontend, mobile, infrastructure and product decisions. I was responsible for publishing and managing the app on the Apple App Store and Google Play Store, as well as maintaining the web platform and production deployments.
 
+Main responsibilities and achievements:
+- Co-founded and helped shape the product vision, technical architecture and roadmap.
+- Led the development team and coordinated technical decisions across web, mobile and backend.
+- Built and maintained modules for events, participants, notifications, reports and club operations.
+- Published and managed the mobile app on iOS and Android stores.
+- Developed and maintained the web platform and mobile experience.
+- Managed production deployments, domains, environments and cloud infrastructure.
+- Worked with authentication, dashboards, business rules, user flows and product scalability.
 
-## ***Best Team Project: Drivent***
+### Linquei — Full-Stack Developer Lead
 
-<table >
-  <tbody>
-    <tr>
-      <th align="center" width="50%"> Back-end - TypeScript Express & PostgreSQL and Redis </th>
-      <th align="center"width="50%"> Front-end - React.js</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/lucasreis64/drivent-backend"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=drivent-backend&theme=github_dark"></a>
-      </td>
-      <td>
-         <a href="https://github.com/lucasreis64/drivent-frontend"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=drivent-frontend&theme=github_dark"></a>
-      </td>
-   </tr>
-  </tbody>
-</table>
+Community and professional networking platform with modules for communities, events, social networking, job opportunities, resumes, projects and technical areas.
 
-<br>
+Main responsibilities and achievements:
+- Led full-stack development across frontend, backend, database and cloud infrastructure.
+- Built and maintained modules for communities, events, social feed, job listings, resumes, projects and technical areas.
+- Developed scalable backend APIs using NestJS, TypeORM and PostgreSQL.
+- Built frontend interfaces and user flows with Next.js, React and TypeScript.
+- Worked on authentication, authorization, user profiles, content management and platform interactions.
+- Implemented complex business rules for community management, events, vacancies and professional profiles.
+- Managed Docker-based deployments, cloud environments and production infrastructure.
+- Helped structure the architecture of a real-world platform combining social, professional and community-driven features.
 
+### TahVago — Full-Stack Developer Lead
 
-## ***Some of my Front-end Projects***
+Coworking management platform built to support operational workflows, payments, user management and business rules for shared workspaces.
 
-<table height="310px">
-  <tbody>
-    <tr>
-      <th align="center" width="50%"> React </th>
-      <th align="center" width="50%">Javascript Vanilla</th>
-    </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/trackit"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=trackit&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/parrotscardgame"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=parrotscardgame&theme=github_dark"></a>
-         </td>
-   </tr>
-   <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/zaprecall"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=zaprecall&theme=github_dark"></a>
-         </td>
-         <td>
-            <a href="https://github.com/lucasreis64/driveneats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=driveneats&theme=github_dark"></a>
-         </td>
-    </tr>
-    <tr>
-         <td>
-           <a href="https://github.com/lucasreis64/cineflex"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=cineflex&theme=github_dark"></a>
-         </td>
-         <td>
-           <a href="https://github.com/lucasreis64/batepapouol"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasreis64&repo=batepapouol&theme=github_dark"></a>
-         </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-# **Skills**
-<table>
-  <tbody>
-    <tr>
-      <td align="left" width="60%">
-         <div>
-
-   ### **Front-end:**
-
-   -   **React JS**
-   -   **JavaScript**
-   -   **HTML5**
-   -   **CSS3**
-   -   **TypeScript**
-   -   **Nextjs**
-
-</div>
-      </td>
-      <td align="left" width="40%">
-         
-<div>
-
-   ### **Back-end:**
-
-   -   **MongoDB**
-   -   **SQL**
-   -   **Redis**
-   -   **TypeScript**   
-   -   **Jest & Supertest**
-   -   **Nestjs**
-</div>
-              </td>
-   </tr>
-    
-  </tbody>
-</table>
-
-<br>
-
-# **Technologies**
-<br>
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasreis64&title_color=FF6700&bg_color=000&text_color=fff)
-
-<br>
-<div>
-   <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
-   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
-     <img height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="Nest" title="Nest" />
-  <img height="50" src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" alt="Next" title="Next" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
-  <img height="50" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-512x512-yh0yu3ta.png" alt="TypeScript" title="TypeScript" />
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" title="Node.js" />
-    <img height="50" src="https://img.icons8.com/color/480/mongodb.png" alt="MongoDB" title="MongoDB" /> 
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" title="PostgreSQL" /> 
- <img height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled-Components" title="Styled-Components" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
-
-</div>
-
-<br>
+Main responsibilities and achievements:
+- Worked as a full-stack developer across backend, frontend and cloud infrastructure.
+- Developed backend services using NestJS, TypeORM and PostgreSQL.
+- Built frontend interfaces and management flows with Next.js, React and TypeScript.
+- Implemented payment-related features and business rules for coworking operations.
+- Worked on authentication, dashboards, administrative flows and data management.
+- Managed Docker-based deployments, cloud environments and production infrastructure.
+- Helped structure the platform architecture for a real-world coworking management product.
